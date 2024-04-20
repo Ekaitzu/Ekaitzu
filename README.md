@@ -5,6 +5,8 @@
 - 🤔 I’m looking to learn more about Machine Learning and Image Processing
 - 📫 How to reach me: uria.ekaitz@gmail.com
 
+⚡ I will be uploading the projects and assignments I have taken part in and learned from. I may be missing information on some projects, this is because I am currently pursuing my studies and I don't have much time. If you have any questions, please contact my email here above.
+
 <!--
 **Ekaitzu/Ekaitzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
