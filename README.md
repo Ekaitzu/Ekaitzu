@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi, I'm Ekaitz!
 
+- 🔭 I’m currently learning a Bachelor of Robotics in the Technical University of Schweinfurt-Würzburg(THWS)
+- 💬 Studied Superior Vocational Training in Industrial Robots and Automation and Vocational Training in Electromechanic Maintenaince at Salesianos Urnieta
+- 🤔 I’m looking to learn more about Machine Learning and Image Processing
+- 📫 How to reach me: uria.ekaitz@gmail.com
+- 
 <!--
 **Ekaitzu/Ekaitzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
